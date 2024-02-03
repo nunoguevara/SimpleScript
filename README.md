@@ -16,3 +16,7 @@ There are only 4 syntax in this very simplified language.
 - Now, you can run the code
 
 ## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+The content of this project is licensed under the [MIT License
