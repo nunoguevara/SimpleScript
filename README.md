@@ -9,6 +9,7 @@ There are only 4 syntax in this very simplified language.
 - variable, so, there's 2 method to declare a variable, the one is with in, and second with declaring variable name, space and then equal sign and after it, click space again and enter a variable value. Variables are mutable and the value can changed it by re-declare it. And variable name can't contain any spaces
 - calling a variable, if you want to call the variable, just type the name of variable, and then the value of it will be printed
 - "abt" basically, this is just a credit syntax
+- "math" so this is the math syntax that added in 0.1a update, it adds a math operation, first, type "math" and then click enter, then you can do math operation with 3 arguments, first is the first number, and second is the sign, "+" for addition "-" for subtraction "*" for multiplication "/" for distribution sign. And the third argument is the second number. To see the results, you can click "Enter", remember, you can't use the math operation like 8 + 7 + 1, because it's only the 1 - 3 arguments are readed to executed
 
 ## How to run it?
 - Install Python in your environment
@@ -22,7 +23,6 @@ There are only 4 syntax in this very simplified language.
 The content of this project is licensed under the [MIT License
 
 ## •Next Plan for Future
-- Adding math
 - Adding a variable type
 - Add more utilities syntax
 
