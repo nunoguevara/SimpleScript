@@ -31,5 +31,25 @@ while True:
         print(variables[syntax])
     elif syntax == "abt":
         print("SimpleScript made with Python by Nuno337")
+    elif syntax == "math":
+        try:
+            math = input()
+            math = math.split()
+            math1 = int(math[0])
+            math2 = int(math[2])
+            if math[1] == "+":  
+                print(math2 + math1)  
+            elif math[1] == "-":
+                print(math1 - math2)
+            elif math[1] == "*":
+                print(math1 * math2)
+            elif math[1] == "/":
+                print(math1 / math2)
+            elif math[1] == "^":
+                print(math1 ** math2)
+            else:
+                print("Invalid math operation!")  
+        except ValueError:
+            print("Invalid number!")
     else:
         print("Invalid Syntax") 
