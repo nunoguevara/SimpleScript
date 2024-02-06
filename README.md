@@ -1,6 +1,6 @@
-# Ultra-Simple-Interpreted-Language
+# SimpleScript
 ## What is this?
-Basically, this is a ultra simple interpreted language, like it names, it's so simple. It has a few syntax and very beginner friendly(especially if you're a student), it's written in Python, and with the source code of this, you can also understand the few elements on Python
+Basically, this is a SimpleScript which is a simple interpreted language, like it names, it's so simple. It has a few syntax and very beginner friendly(especially if you're a student), it's written in Python, and with the source code of this, you can also understand the few elements on Python
 
 ## Syntax and mechanics
 There are a few syntax in this very simplified language.
